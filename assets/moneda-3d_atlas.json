@@ -1,0 +1,424 @@
+{
+    "frames": [
+        {
+            "filename": "moneda-01",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-02",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-03",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-04",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-05",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 422,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-06",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 422,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-07",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-08",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-09",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 422,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-10",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-11",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-12",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-13",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-14",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-15",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 422,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-16",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-17",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 844,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-18",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 844,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-19",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 844,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-20",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 844,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-21",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-22",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-23",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 422,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-24",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-25",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 844,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-26",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 1055,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-28",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 1055,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-29",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 1055,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-27",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 1055,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-31",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 1055,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-30",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 1055
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "moneda-32",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 1055
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

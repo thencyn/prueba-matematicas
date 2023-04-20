@@ -1,0 +1,76 @@
+{
+    "anims": [
+        {
+            "key": "rotacion-question-3d",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-01"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-02"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-03"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-04"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-05"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-06"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-07"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-08"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-09"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-10"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-11"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-12"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-13"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-14"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-15"
+                },
+                {
+                    "key": "AtlasQuestion3D",
+                    "frame": "question-16"
+                }
+            ]
+        }
+    ]
+}

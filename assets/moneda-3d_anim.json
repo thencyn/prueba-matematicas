@@ -1,0 +1,140 @@
+{
+    "anims": [
+        {
+            "key": "rotacion-moneda-3d",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-01"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-02"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-03"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-04"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-05"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-06"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-07"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-08"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-09"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-10"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-11"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-12"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-13"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-14"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-15"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-16"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-17"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-18"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-19"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-20"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-21"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-22"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-23"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-24"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-25"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-26"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-27"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-28"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-29"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-30"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-31"
+                },
+                {
+                    "key": "AtlasMoneda3D",
+                    "frame": "moneda-32"
+                }
+            ]
+        }
+    ]
+}

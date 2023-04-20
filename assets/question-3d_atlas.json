@@ -1,0 +1,216 @@
+{
+    "frames": [
+        {
+            "filename": "question-15",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-10",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-16",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-14",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-02",
+            "frame": {
+                "w": 211,
+                "h": 210,
+                "x": 422,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-03",
+            "frame": {
+                "w": 211,
+                "h": 210,
+                "x": 422,
+                "y": 210
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-04",
+            "frame": {
+                "w": 211,
+                "h": 210,
+                "x": 422,
+                "y": 420
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-05",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
+                "y": 630
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-06",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-07",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 422,
+                "y": 630
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-08",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-09",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-11",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 422
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-12",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 211,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-13",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 633,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "question-01",
+            "frame": {
+                "w": 210,
+                "h": 210,
+                "x": 0,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "boton-grande",
+            "frame": {
+                "w": 338,
+                "h": 84,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-grande-disable",
+            "frame": {
+                "w": 338,
+                "h": 84,
+                "x": 0,
+                "y": 84
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-jugar-disabled",
+            "frame": {
+                "w": 306,
+                "h": 306,
+                "x": 0,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-jugar",
+            "frame": {
+                "w": 306,
+                "h": 306,
+                "x": 306,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-siguiente",
+            "frame": {
+                "w": 82,
+                "h": 82,
+                "x": 338,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-anterior",
+            "frame": {
+                "w": 82,
+                "h": 82,
+                "x": 338,
+                "y": 82
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "configuracion",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 420,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "home-disable",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 420,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "menu",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 492,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "menu-disable",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 564,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "home",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 492,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-efectos-on",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 564,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "full-screen",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 0,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "informacion",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 72,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-efectos-off",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 144,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-off",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 216,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-on",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 288,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-mas",
+            "frame": {
+                "w": 66,
+                "h": 66,
+                "x": 360,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-mas-disable",
+            "frame": {
+                "w": 66,
+                "h": 66,
+                "x": 426,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-menos",
+            "frame": {
+                "w": 66,
+                "h": 66,
+                "x": 492,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-menos-disable",
+            "frame": {
+                "w": 66,
+                "h": 66,
+                "x": 558,
+                "y": 474
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-cerrar",
+            "frame": {
+                "w": 66,
+                "h": 66,
+                "x": 0,
+                "y": 546
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
