@@ -1,38 +1,12 @@
 {
     "frames": [
         {
-            "filename": "gema-4",
-            "frame": {
-                "w": 210,
-                "h": 211,
-                "x": 0,
-                "y": 0
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "gema-3",
-            "frame": {
-                "w": 211,
-                "h": 211,
-                "x": 210,
-                "y": 0
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
             "filename": "gema-1",
             "frame": {
                 "w": 211,
                 "h": 211,
                 "x": 0,
-                "y": 211
+                "y": 0
             },
             "anchor": {
                 "x": 0.5,
@@ -45,7 +19,111 @@
                 "w": 211,
                 "h": 211,
                 "x": 211,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gema-3",
+            "frame": {
+                "w": 211,
+                "h": 211,
+                "x": 0,
                 "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gema-4",
+            "frame": {
+                "w": 210,
+                "h": 211,
+                "x": 211,
+                "y": 211
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "cuadro-azul",
+            "frame": {
+                "w": 36,
+                "h": 36,
+                "x": 422,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "cuadro-amarillo",
+            "frame": {
+                "w": 36,
+                "h": 36,
+                "x": 422,
+                "y": 36
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "cuadro-gris",
+            "frame": {
+                "w": 36,
+                "h": 36,
+                "x": 422,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "cuadro-rojo",
+            "frame": {
+                "w": 36,
+                "h": 36,
+                "x": 422,
+                "y": 108
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "cuadro-rosado",
+            "frame": {
+                "w": 36,
+                "h": 36,
+                "x": 422,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "cuadro-verde",
+            "frame": {
+                "w": 36,
+                "h": 36,
+                "x": 422,
+                "y": 180
             },
             "anchor": {
                 "x": 0.5,
